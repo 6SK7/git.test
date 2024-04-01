@@ -1,1 +1,1 @@
-This is my first hit repository.
+This is my first git repository.
